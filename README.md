@@ -127,7 +127,7 @@ sudo su    # Gain root access
 ## 📚 References
 - [GTFOBins](https://gtfobins.github.io/)
 - [HackTricks](https://book.hacktricks.xyz/linux-hardening/privilege-escalation)
-
+- [HackTheBox](https://account.hackthebox.com/login)
 ---
 
 ## ⚠️ Disclaimer
